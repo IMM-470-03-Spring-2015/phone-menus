@@ -6,7 +6,7 @@ $phonebook = array(
     "+12152642459"=>"Professor Thompson",
 );
 
-$name = "fella";
+$name = "étranger";
  
 // if the caller is in our phonebook, then greet them by name
 // otherwise, refer to them as fella
