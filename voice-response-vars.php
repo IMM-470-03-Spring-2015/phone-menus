@@ -18,5 +18,5 @@ header("content-type: text/xml");
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 ?>
 <Response>
-    <Say voice="women" language="fr">Allô <?php echo $name ?>.</Say>
+    <Say voice="woman" language="fr">Allô <?php echo $name ?>.</Say>
 </Response>
