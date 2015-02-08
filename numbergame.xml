@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="./checknumber.php" method="get" finishOnKey="*">
+        <Say>I'm thinking of a number between 1 and 10, enter the number then press star.</Say>
+    </Gather>
+</Response>
