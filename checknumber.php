@@ -2,7 +2,6 @@
 // puck a random number
 $number = 5;
 $guess = $_REQUEST['Digits'];
-$from = $_REQUEST['From'];
 
 header("content-type: text/xml");
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
