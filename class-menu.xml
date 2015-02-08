@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="./class-menu-processor.php" numDigits="1">
+        <Say>Welcome to Interactive Design for the Developing World, Spring 2015.</Say>
+        <Say>For the course description, press 1.</Say>
+        <Say>For the course location and meeting time, press 2.</Say>
+        <Say>To leave a message for the instructor, press 3.</Say>
+    </Gather>
+    <!-- Timeout defaults to 5 seconds, if customer doesn't input anything, redirect to prompt and try again. -->
+    <Say>Sorry, I didn't get your response.</Say>
+    <Redirect>./class-menu.xml</Redirect>
+</Response>
