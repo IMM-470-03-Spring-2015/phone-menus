@@ -16,7 +16,7 @@
         break;
         
         case 3:
-            echo "<Dial timeout=\"10\">215-264-2459</Dial>";
+            echo "<Dial>215-264-2459</Dial>";
         break;
         
         default:
