@@ -3,7 +3,7 @@ $from = $_REQUEST["From"];
 
 // make an associative array of senders we know, indexed by phone number
 $phonebook = array(
-    "+12152642459"=>"Me",
+    "+12152642459"=>"Professor Thompson",
 );
 
 $name = "fella";
