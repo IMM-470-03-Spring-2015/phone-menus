@@ -9,7 +9,7 @@ $phonebook = array(
 $name = "étranger";
  
 // if the caller is in our phonebook, then greet them by name
-// otherwise, refer to them as fella
+// otherwise, refer to them as étranger
 if(isset($phonebook[$_REQUEST['From']])) {
     $name = $phonebook[$_REQUEST['From']];
 }
