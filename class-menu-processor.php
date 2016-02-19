@@ -12,7 +12,7 @@
         break;
         
         case 2:
-            echo "<Say>I M M 470 0 3, meets every Friday morning, 9 30 a m to 12 20 p m, in A I M M 2 26.</Say>";
+            echo "<Say>I M M 4 70 0 3, meets every Friday morning, 9 30 a m to 12 20 p m, in A I M M 2 26.</Say>";
         break;
         
         case 3:
