@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Gather action="./class-menu-processor.php" numDigits="1">
-        <Say>Welcome to Interactive Design for the Developing World, Spring 2015.</Say>
+        <Say>Welcome to Interactive Design for Developing Communities, Spring 2016.</Say>
         <Say>For the course description, press 1.</Say>
         <Say>For the course location and meeting time, press 2.</Say>
         <Say>To leave a message for the instructor, press 3.</Say>
