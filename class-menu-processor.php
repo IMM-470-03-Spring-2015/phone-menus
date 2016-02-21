@@ -20,7 +20,7 @@
         break;
         
         default:
-            echo "<Say>I didn't understand your selection.</Say><Redirect>./class-menu.xml</Redirect>";
+            echo "<Say>Sorry, I didn't understand your selection.</Say><Redirect>./class-menu.xml</Redirect>";
         break;
     }
  
